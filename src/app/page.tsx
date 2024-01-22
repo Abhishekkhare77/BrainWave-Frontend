@@ -3,7 +3,7 @@ export default function Home() {
     <div>
       Home page
       hello boy
-      f
+      
       
     </div>
   );
